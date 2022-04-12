@@ -26,6 +26,10 @@
   background-color: white;
 }
 
+.about-tabContent {
+  position: relative;
+}
+
 .about-button {
   padding: 0.7em 2em;
   border-radius: 10%;
