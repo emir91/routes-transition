@@ -1,0 +1,21 @@
+.home-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2em;
+}
+
+.home-heading {
+  color: rgb(181, 215, 245);
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.home-button {
+  padding: 0.7em 2em;
+  border-radius: 10%;
+  background-color: rgb(42, 42, 124);
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+}
