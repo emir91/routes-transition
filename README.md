@@ -1,3 +1,3 @@
-# Sync Routes Example
+# Routes Transition Example
 
-Move State into Routes to Create Deep Links
+Animate moving from one location to another
